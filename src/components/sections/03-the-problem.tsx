@@ -16,23 +16,20 @@ export default function TheProblem() {
       <div className="wrap max-w-5xl mx-auto relative z-10">
         {/* Header */}
         <Reveal>
-          <div className="text-center max-w-2xl mx-auto">
+          <div className="text-center max-w-3xl mx-auto">
             <div className="inline-flex items-center gap-2 rounded-full border border-[#D65108]/20 bg-[#D65108]/10 px-4 py-1.5 text-xs font-black uppercase tracking-wider text-[#D65108] mb-4">
               <AlertTriangle className="h-4 w-4 text-[#D65108]" strokeWidth={2.5} />
               {THE_PROBLEM.kicker}
             </div>
-            <h2 className="font-heading text-4xl font-extrabold text-ink sm:text-5xl lg:text-[3.4rem] lg:leading-[1.05]">
-              Every parent{" "}
-              <span className="italic text-[#D65108] relative inline-block">
-                recognizes this.
+            <h2 className="font-heading text-4xl font-extrabold text-ink sm:text-5xl lg:text-[3.2rem] lg:leading-[1.08]">
+              <span className="block">{THE_PROBLEM.headlineTop}</span>
+              <span className="block italic text-[#D65108] relative inline-block mt-1">
+                {THE_PROBLEM.headlineAccent}
                 <svg className="absolute -bottom-2 left-0 w-full" viewBox="0 0 200 12" fill="none" aria-hidden>
                   <path d="M2 9 C60 2, 140 2, 198 7" stroke="#EFA00B" strokeWidth="4" strokeLinecap="round" />
                 </svg>
               </span>
             </h2>
-            <p className="mt-4 font-hand text-2xl font-bold text-ink/75">
-              Two students. Same textbook. Same study time. Why is one remembering everything a month later?
-            </p>
           </div>
         </Reveal>
 

@@ -39,7 +39,9 @@ export const HERO = {
 
 export const THE_PROBLEM = {
   kicker: "The Problem",
-  headline: "Every parent recognizes this.",
+  headlineTop: "Two students. Same textbook. Same study time.",
+  headlineAccent: "Why is one remembering everything a month later?",
+  headline: "Two students. Same textbook. Same study time. Why is one remembering everything a month later?",
   paragraphs: [
     "Your child studies for hours. Reads the notes again and again. Tells you, \"I know this.\"",
     "A month later, half of it is gone.",
