@@ -39,20 +39,14 @@ export const HERO = {
 
 export const THE_PROBLEM = {
   kicker: "The Problem",
-  headlineTop: "Two students. Same textbook. Same study time.",
-  headlineAccent: "Why is one remembering everything a month later?",
-  headline: "Two students. Same textbook. Same study time. Why is one remembering everything a month later?",
-  paragraphs: [
-    "Your child studies for hours. Reads the notes again and again. Tells you, \"I know this.\"",
-    "A month later, half of it is gone.",
-    "Meanwhile, another student in the same class — same textbook, same amount of study time — still remembers it clearly.",
-    "Your first instinct might be to think the other child is just naturally smarter, or more focused. But that's rarely the real reason.",
-    "Ask that student's parents, and you'll hear the same answer almost every time: \"They learned a way to study.\" Not a gift. A method.",
-  ],
-  coreQuestion: {
-    lead: "So the real question isn't \"why can't my child remember?\"",
-    question: "It's: \"What technique does that student know that mine doesn't?\"",
-  },
+  eyebrow: "You've seen it happen.",
+  headlineTop: "The night before an exam, your child is surrounded by notes.",
+  headlineAccent: "Then exam day comes — and it's gone.",
+  storyLead: "The night before an exam, your child is surrounded by notes. They read. They re-read. They tell you they've got it.",
+  storyClimax: "Then the exam is in front of them — and it feels like they never studied at all.",
+  reassurance: "This isn't about trying harder. It isn't about being \"smart enough.\"",
+  rootCause: "Schools teach children what to learn. They rarely teach how to remember it. Cramming feels like studying, but most of it disappears within days.",
+  forgettingCurveNote: "This is called the forgetting curve — and it happens to almost every student who was never taught a better way.",
 } as const
 
 export const THE_REVEAL = {
