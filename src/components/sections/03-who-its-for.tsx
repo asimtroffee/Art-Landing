@@ -36,9 +36,15 @@ export default function WhoItsFor() {
             </div>
             <h2 className="font-heading text-4xl font-extrabold text-ink sm:text-5xl lg:text-[3.4rem] lg:leading-[1.05]">
               Every student,{" "}
-              <span className="italic text-[#D65108] relative inline-block">
+              <span className="italic text-[#D65108] relative inline-block pb-2 sm:pb-3">
                 7 to 17
-                <svg className="absolute -bottom-2 left-0 w-full" viewBox="0 0 200 12" fill="none" aria-hidden>
+                <svg
+                  className="absolute bottom-0 left-0 w-full h-2.5 sm:h-3.5 pointer-events-none"
+                  viewBox="0 0 200 12"
+                  fill="none"
+                  preserveAspectRatio="none"
+                  aria-hidden
+                >
                   <path d="M2 9 C60 2, 140 2, 198 7" stroke="#EFA00B" strokeWidth="4" strokeLinecap="round" />
                 </svg>
               </span>

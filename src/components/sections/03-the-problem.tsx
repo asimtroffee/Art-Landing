@@ -58,11 +58,17 @@ export default function TheProblem() {
             <p className="font-hand text-3xl sm:text-4xl font-bold text-[#D65108] mb-2">
               {THE_PROBLEM.eyebrow}
             </p>
-            <h2 className="font-heading text-4xl font-extrabold text-ink sm:text-5xl lg:text-[3.3rem] lg:leading-[1.08]">
+            <h2 className="font-heading text-4xl font-extrabold text-ink sm:text-5xl lg:text-[3.3rem] lg:leading-[1.1]">
               <span className="block">{THE_PROBLEM.headlineTop}</span>
-              <span className="block italic text-[#D65108] relative inline-block mt-1">
+              <span className="relative inline-block mt-2 pb-3 sm:pb-4 italic text-[#D65108]">
                 {THE_PROBLEM.headlineAccent}
-                <svg className="absolute -bottom-2 left-0 w-full" viewBox="0 0 200 12" fill="none" aria-hidden>
+                <svg
+                  className="absolute bottom-0 left-0 w-full h-3 sm:h-4 pointer-events-none"
+                  viewBox="0 0 200 12"
+                  fill="none"
+                  preserveAspectRatio="none"
+                  aria-hidden
+                >
                   <path d="M2 9 C60 2, 140 2, 198 7" stroke="#EFA00B" strokeWidth="4" strokeLinecap="round" />
                 </svg>
               </span>
