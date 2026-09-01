@@ -1,34 +1,12 @@
-import { BadgeCheck, Brain, HandCoins, Sparkles, ShieldCheck } from "lucide-react"
+import Image from "next/image"
+import { BadgeCheck, Brain, HandCoins, ShieldCheck } from "lucide-react"
 import Reveal from "@/components/ui/reveal"
 import TiltCard from "@/components/ui/tilt-card"
 import { TRUST } from "@/lib/constants"
 
-const PILLAR_META = [
-  {
-    icon: HandCoins,
-    color: "#D65108",
-    bg: "#FBE7DC",
-    tag: "Zero Risk",
-    stat: "100% Free",
-    statSub: "All 5 live sessions",
-  },
-  {
-    icon: BadgeCheck,
-    color: "#EFA00B",
-    bg: "#FDF3DD",
-    tag: "Trusted Educator",
-    stat: "Troffee Education",
-    statSub: "Pioneering learning how to learn",
-  },
-  {
-    icon: Brain,
-    color: "#361D2E",
-    bg: "#E9E0E6",
-    tag: "Evidence Backed",
-    stat: "Memory Science",
-    statSub: "Dual-coding & spaced recall",
-  },
-]
+const PILLAR_ICONS = [HandCoins, BadgeCheck, Brain]
+const PILLAR_TAGS = ["Zero Risk", "Trusted Educator", "Champion Science"]
+const PILLAR_COLORS = ["#D65108", "#EFA00B", "#361D2E"]
 
 export default function TrustSection() {
   return (
@@ -44,7 +22,7 @@ export default function TrustSection() {
             <h2 className="font-heading text-4xl font-extrabold text-ink sm:text-5xl lg:text-[3.4rem] lg:leading-[1.05]">
               Why parents{" "}
               <span className="relative inline-block text-[#D65108]">
-                choose AURA
+                trust AURA
                 <svg className="absolute -bottom-2 left-0 w-full" viewBox="0 0 200 12" fill="none" aria-hidden>
                   <path d="M2 9 C60 2, 140 2, 198 7" stroke="#EFA00B" strokeWidth="4" strokeLinecap="round" />
                 </svg>
@@ -56,39 +34,52 @@ export default function TrustSection() {
           </div>
         </Reveal>
 
-        {/* 3 Trust Pillars */}
+        {/* 3 Trust Pillars with Photos */}
         <div className="mt-14 grid gap-8 md:grid-cols-3">
           {TRUST.pillars.map((p, i) => {
-            const meta = PILLAR_META[i]
-            const Icon = meta.icon
+            const Icon = PILLAR_ICONS[i]
+            const tag = PILLAR_TAGS[i]
+            const color = PILLAR_COLORS[i]
             return (
               <Reveal key={p.title} delay={i * 110} className="h-full">
                 <TiltCard maxTilt={4} className="h-full">
-                  <div className="sketch-card flex h-full flex-col justify-between p-8 bg-[#FAF8F5] border-2 border-[#E5D7C9] transition-all duration-300 hover:border-[#D65108]/40 hover:shadow-xl">
-                    <div>
-                      <div className="flex items-center justify-between gap-3 mb-6">
-                        <span
-                          className="flex h-14 w-14 items-center justify-center rounded-2xl shadow-sm"
-                          style={{ background: meta.bg }}
-                        >
-                          <Icon className="h-7 w-7" style={{ color: meta.color }} strokeWidth={2.25} />
-                        </span>
-                        <span className="rounded-full bg-white px-3 py-1 text-xs font-black uppercase tracking-wider text-ink/60 border border-[#E5D7C9]">
-                          {meta.tag}
-                        </span>
-                      </div>
-
-                      <h3 className="font-heading text-2xl font-extrabold text-ink leading-tight">
-                        {p.title}
-                      </h3>
-                      <p className="mt-3 text-[15px] leading-relaxed text-ink/75 font-semibold">
-                        {p.body}
-                      </p>
+                  <div className="sketch-card flex h-full flex-col overflow-hidden rounded-3xl bg-[#FAF8F5] border-2 border-[#E5D7C9] transition-all duration-300 hover:border-[#D65108]/40 hover:shadow-2xl">
+                    {/* Photo Header */}
+                    <div className="relative aspect-[16/10] w-full overflow-hidden">
+                      <Image
+                        src={p.photo}
+                        alt={p.title}
+                        fill
+                        sizes="(max-width: 768px) 100vw, 33vw"
+                        className="object-cover"
+                      />
+                      <div className="absolute inset-0 bg-gradient-to-t from-black/75 via-black/25 to-transparent" />
+                      <span className="absolute top-3 right-3 rounded-full bg-white/90 backdrop-blur-md px-3 py-1 text-xs font-black uppercase tracking-wider text-[#361D2E] shadow-sm">
+                        {tag}
+                      </span>
+                      <span
+                        className="absolute bottom-3 left-4 flex h-10 w-10 items-center justify-center rounded-xl text-white shadow-md"
+                        style={{ background: color }}
+                      >
+                        <Icon className="h-5 w-5" strokeWidth={2.5} />
+                      </span>
                     </div>
 
-                    <div className="mt-8 pt-5 border-t border-[#E5D7C9]">
-                      <p className="font-heading text-xl font-black text-ink">{meta.stat}</p>
-                      <p className="text-xs font-semibold text-ink/60">{meta.statSub}</p>
+                    {/* Content */}
+                    <div className="p-6 flex flex-1 flex-col justify-between">
+                      <div>
+                        <h3 className="font-heading text-2xl font-extrabold text-ink leading-tight">
+                          {p.title}
+                        </h3>
+                        <p className="mt-3 text-[15px] leading-relaxed text-ink/75 font-semibold">
+                          {p.body}
+                        </p>
+                      </div>
+
+                      <div className="mt-6 pt-4 border-t border-[#E5D7C9] flex items-center justify-between text-xs font-bold text-[#D65108]">
+                        <span>Verified by Troffee Education</span>
+                        <BadgeCheck className="h-4 w-4" />
+                      </div>
                     </div>
                   </div>
                 </TiltCard>

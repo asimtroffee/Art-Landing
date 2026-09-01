@@ -1,21 +1,22 @@
 # AURA Memory Technique: Free Live Workshops for Students (7–17)
 
 > **Created by Troffee Education**  
-> *"Learn it once. Remember it for life."*
+> *"Top students aren't geniuses. They just use the same 5 techniques world memory champions use."*
 
 ---
 
 ## Table of Contents
 1. [Executive Summary](#executive-summary)
 2. [What is AURA?](#what-is-aura)
-3. [The Core Problem: Why Kids Forget (The Forgetting Curve)](#the-core-problem-why-kids-forget-the-forgetting-curve)
-4. [The Paradigm Shift: Memory is a Learned Skill](#the-paradigm-shift-memory-is-a-learned-skill)
-5. [How AURA Actually Works: The 5 Techniques](#how-aura-actually-works-the-5-techniques)
-6. [Target Audience & Age Categories (7–17)](#target-audience--age-categories-717)
-7. [The 5 Free Live Workshops (Schedule & Curriculum)](#the-5-free-live-workshops-schedule--curriculum)
-8. [Why Parents Choose AURA (Trust & Credibility)](#why-parents-choose-aura-trust--credibility)
-9. [How to Join in 2 Simple Steps](#how-to-join-in-2-simple-steps)
-10. [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
+3. [The Problem: Why Kids Forget (Two Students, Same Textbook)](#the-problem-why-kids-forget-two-students-same-textbook)
+4. [The Reveal: The World Memory Champion Connection](#the-reveal-the-world-memory-champion-connection)
+5. [The Shift: Before and After AURA](#the-shift-before-and-after-aura)
+6. [How AURA Actually Works: The 5 Techniques](#how-aura-actually-works-the-5-techniques)
+7. [Target Audience & Age Categories (7–17)](#target-audience--age-categories-717)
+8. [The 5 Free Live Workshops (Schedule & Curriculum)](#the-5-free-live-workshops-schedule--curriculum)
+9. [Why Parents Trust AURA](#why-parents-trust-aura)
+10. [How to Join in 2 Simple Steps](#how-to-join-in-2-simple-steps)
+11. [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
 
 ---
 
@@ -23,56 +24,68 @@
 
 **AURA** is a structured **memory and cognitive learning technique** developed by **Troffee Education** to teach school students (ages 7 to 17) how memory really works. 
 
-Rather than relying on stressful, repetitive rote memorization and last-minute cramming, AURA equips students with visual sketch-noting, strategic spaced recall, thinking frameworks, and expressive presentation skills.
+One single difference separates a child who remembers a lesson a month later from one who forgets it in two days: **it's not intelligence, it's technique**. World memory champions memorize full decks of cards in under a minute not because of superior genetics, but because they apply four foundational principles.
 
-The complete technique is taught live and hands-on over **5 interactive online workshops**, which are **100% free to attend**.
-
----
-
-## What is AURA?
-
-Most students struggle in school not because they aren't smart or don't try, but because **schools teach WHAT to learn, but rarely HOW to remember it**.
-
-Under exam pressure, text-heavy notes fade. AURA provides a practical, step-by-step memory toolkit:
-- **Visual Encoding**: Transforming textbook pages into memorable sketch notes with pictures, arrows, and visual anchors.
-- **Spaced Recall**: Reviewing facts at precise intervals so information moves permanently into long-term memory.
-- **Exam Thinking**: A systematic, step-by-step method to think through any exam question with depth and clarity.
-- **Mind Maps & Synthesis**: Turning complex, messy chapters into a single colourful, structured page.
-- **Expressive Retrieval**: Speaking and presenting ideas with clarity and confidence.
+AURA simplifies and adapts these exact world-champion principles for school children over **5 live, interactive online workshops**, which are **100% free to attend**.
 
 ---
 
-## The Core Problem: Why Kids Forget (The Forgetting Curve)
+## The Problem: Why Kids Forget (Two Students, Same Textbook)
 
-Every parent has seen it:
-1. **The Late Night**: The child studies for hours, surrounded by notes, re-reading pages until they blur. They say *"I've got this!"*
-2. **The Exam Blank**: The exam arrives — and it feels like they never studied at all.
-3. **The Root Cause**: Cramming only holds data in fragile short-term working memory. Up to **75% of crammed facts disappear within 48 hours** due to the natural forgetting curve.
+Your child studies for hours. Reads the notes again and again. Tells you, *"I know this."* A month later, half of it is gone.
+
+Meanwhile, another student in the same class — same textbook, same amount of study time — still remembers it clearly.
+
+Ask that student's parents, and you'll hear the same answer almost every time: *"They learned a way to study."* Not a gift. A method.
+
+So the real question isn't *"why can't my child remember?"*  
+**It's: *"What technique does that student know that mine doesn't?"***
 
 ---
 
-## The Paradigm Shift: Memory is a Learned Skill
+## The Reveal: The World Memory Champion Connection
 
-Memory is not a genetic trait kids are simply born with or without — **it is a skill that can be mastered with the right technique**.
+World memory champions were not born with extraordinary photographic memories. When asked how they perform superhuman memory feats, they all give the same answer: *"I use a technique."*
 
-| The Old Rote Way | The AURA Memory Method |
+That technique rests on **four core principles**:
+1. **Mental Images Over Raw Text**: Turning abstract lessons into visual mental images.
+2. **Spaced Interval Review**: Reviewing material at strategic intervals that permanently lock it into long-term memory.
+3. **Clear Structured Hierarchy**: Organizing complex concepts into clear hierarchies rather than a jumble of facts.
+4. **Active Recall by Explaining**: Testing retrieval by explaining concepts out loud rather than passive re-reading.
+
+These are the exact same four principles behind AURA — simplified into steps any child aged 7 to 17 can follow.
+
+---
+
+## The Shift: Before and After AURA
+
+| Before Learning the Technique | After Learning AURA |
 | :--- | :--- |
-| ❌ Re-reading pages until they blur | ✅ Simple sketch notes the brain actually holds onto |
-| ❌ Stressful last-minute panic cramming | ✅ Reviewing facts at strategic spaced intervals |
-| ❌ Freezing on complex exam questions | ✅ Step-by-step frameworks to deconstruct any prompt |
-| ❌ Mumbling and anxiety during presentations | ✅ Explaining ideas clearly and with unshakable confidence |
+| ❌ Rereads the same page 2–3 times, assumes it's memorized | ✅ Turns the lesson into a simple image that's remembered instantly |
+| ❌ Crams everything the night before the exam | ✅ Reviews at specific intervals that make information last for weeks |
+| ❌ Freezes when seeing a complex exam question | ✅ Has clear, step-by-step thinking steps to work through any question |
+| ❌ Knows the answer but can't explain it | ✅ Stands up and explains it with real, unshakable confidence |
 
-> *"If a child can explain something well, it means they really understand it."*
+> **Conclusion**: This isn't a difference in intelligence. It's a difference in technique — and technique can be taught.
 
 ---
 
 ## How AURA Actually Works: The 5 Techniques
 
-1. **Sketch Notes That Stick**: Boring textbook pages turn into simple pictures and arrows that make instant visual sense.
-2. **Never-Forget Memory Tricks**: Spaced recall timing so facts don't fade away weeks later.
-3. **Answering Exam Questions With Real Depth**: A step-by-step thinking method so students never stare blankly at an exam question.
-4. **Mind Maps & Creative Notes**: Turning a messy chapter into one clear, colourful map for any subject.
-5. **Presenting With Confidence**: Standing up and explaining ideas clearly without freezing up.
+1. **01 · Sketch Notes That Stick**:  
+   Boring textbook pages turn into simple pictures and arrows.  
+   *Champion Connection*: This is the mental-image technique memory athletes use to memorize entire decks of cards.
+2. **02 · Never-Forget Memory Tricks**:  
+   Reviewing facts at precise times so they don't fade away.  
+   *Champion Connection*: Champions follow a precise spaced-review schedule rather than reviewing randomly.
+3. **03 · Answering Exam Questions With Real Depth**:  
+   A step-by-step thinking method to deconstruct any prompt.  
+   *Champion Connection*: Memory competitors follow a fixed, reliable system rather than relying on raw recall.
+4. **04 · Mind Maps & Creative Notes**:  
+   Turning messy chapters into one clear, colourful map for any subject.
+5. **05 · Presenting With Confidence**:  
+   Standing up and explaining ideas clearly without freezing up.  
+   *Champion Connection*: Active recall — testing oneself by retrieving from memory — creates permanent learning.
 
 ---
 
@@ -100,11 +113,11 @@ All 5 workshops are conducted **live online (2 hours each)** by master memory fa
 
 ---
 
-## Why Parents Choose AURA (Trust & Credibility)
+## Why Parents Trust AURA
 
 1. **100% Free to Join**: Attendance for all 5 live workshops costs nothing. The optional companion kit is just RM10 if desired.
 2. **Made by Troffee Education**: Built by professional educators dedicated to teaching students how to actually learn.
-3. **Real Memory Science, Made Simple**: Grounded in cognitive psychology and dual-coding theory, made accessible for any child aged 7–17.
+3. **Real Memory Science, Made Simple**: The same principles used by memory champions worldwide — explained in a way any child can understand and use right away.
 
 ---
 
@@ -123,5 +136,5 @@ All 5 workshops are conducted **live online (2 hours each)** by master memory fa
   No. A normal notebook and coloured pens work fine. The kit is just a nice-to-have.
 - **Does my child need any experience?**  
   No. The workshops start from the basics. Most kids are making confident notes from the very first session.
-- **Is this backed by real memory science, or is it just "tips"?**  
-  It's based on proven learning methods — the same ones used in memory research — just explained simply, so any child aged 7 to 17 can use them right away.
+- **Is this really the same technique memory champions use, or just marketing?**  
+  The four core principles — mental imagery, spaced review, structure, and active recall — are genuinely what memory athletes use worldwide. AURA simplifies and applies them in steps built for a child's age, without the complexity.

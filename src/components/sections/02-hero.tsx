@@ -2,7 +2,7 @@
 
 import { useState, useEffect, useCallback } from "react"
 import Image from "next/image"
-import { ArrowRight, ChevronLeft, ChevronRight, Sparkles, MessageCircle, Clock, Users, Calendar, CheckCircle2 } from "lucide-react"
+import { ArrowRight, ChevronLeft, ChevronRight, Sparkles, MessageCircle, Trophy, Brain, Users, Calendar, CheckCircle2 } from "lucide-react"
 import CtaLink from "@/components/ui/cta-link"
 import Reveal from "@/components/ui/reveal"
 import Countdown from "@/components/ui/countdown"
@@ -10,18 +10,18 @@ import FloatingDoodles from "@/components/ui/floating-doodles"
 import { HERO, SITE } from "@/lib/constants"
 
 const SLIDES = [
-  { src: "/images/hero-slide-1.jpg", alt: "Children's creative memory workshop" },
-  { src: "/images/hero-slide-2.jpg", alt: "Kids learning through visual memory techniques" },
-  { src: "/images/hero-slide-3.jpg", alt: "Creative workshop activities and sketch noting" },
-  { src: "/images/hero-slide-4.jpg", alt: "Young students building mind maps" },
-  { src: "/images/hero-slide-5.jpg", alt: "Art studio memory workshop session" },
+  { src: "/images/hero-slide-1.jpg", alt: "Children learning world memory champion techniques" },
+  { src: "/images/hero-slide-2.jpg", alt: "Kids learning visual memory sketch notes" },
+  { src: "/images/hero-slide-3.jpg", alt: "Creative workshop activities and mind maps" },
+  { src: "/images/hero-slide-4.jpg", alt: "Young students building structured recall" },
+  { src: "/images/hero-slide-5.jpg", alt: "Students presenting memory notes with confidence" },
 ]
 
 const PILLS = [
   { label: "Ages 7–17", icon: Users },
   { label: "5 Live Sessions", icon: Calendar },
   { label: "100% Free Attendance", icon: CheckCircle2 },
-  { label: "Proven Memory Science", icon: Sparkles },
+  { label: "World Champion Techniques", icon: Trophy },
 ]
 
 export default function Hero() {
@@ -67,7 +67,7 @@ export default function Hero() {
       <FloatingDoodles className="z-[2] hidden sm:block" />
 
       {/* ── Dark contrast overlay for maximum readability ── */}
-      <div className="absolute inset-0 bg-gradient-to-r from-black/85 via-black/65 to-black/40 pointer-events-none z-[1]" />
+      <div className="absolute inset-0 bg-gradient-to-r from-black/85 via-black/70 to-black/45 pointer-events-none z-[1]" />
 
       {/* ── Prev / Next arrows ── */}
       <button
@@ -111,35 +111,35 @@ export default function Hero() {
 
         {/* Headline */}
         <Reveal delay={80}>
-          <h1 className="font-heading text-4xl font-normal leading-[1.06] text-white sm:text-5xl lg:text-[4.2rem] drop-shadow-xl max-w-4xl">
+          <h1 className="font-heading text-4xl font-normal leading-[1.06] text-white sm:text-5xl lg:text-[4rem] drop-shadow-xl max-w-4xl">
             <span className="block">{HERO.headlineTop}</span>
-            <span className="block text-[#EFA00B] drop-shadow-[0_2px_12px_rgba(239,160,11,0.4)]">
+            <span className="block text-[#EFA00B] drop-shadow-[0_2px_14px_rgba(239,160,11,0.45)]">
               {HERO.headlineAccent}
             </span>
           </h1>
         </Reveal>
 
-        {/* Relatable Story Card */}
+        {/* Subheadline & Champion Angle Card */}
         <Reveal delay={160}>
-          <div className="mt-6 max-w-2xl rounded-2xl border border-white/15 bg-black/35 p-6 backdrop-blur-md shadow-2xl">
-            <div className="space-y-2.5">
-              <p className="text-lg sm:text-xl font-bold leading-relaxed text-white">
-                {HERO.paragraphs[0]}
-              </p>
-              <p className="text-lg sm:text-xl font-extrabold text-[#EFA00B] leading-relaxed">
-                {HERO.paragraphs[1]}
-              </p>
-              <p className="text-sm sm:text-base font-semibold leading-relaxed text-white/80 border-t border-white/10 pt-2.5">
-                {HERO.paragraphs[2]}
+          <div className="mt-6 max-w-2xl rounded-2xl border border-white/15 bg-black/40 p-6 backdrop-blur-md shadow-2xl">
+            <p className="text-lg sm:text-xl font-bold leading-relaxed text-white">
+              {HERO.subheadline}
+            </p>
+            <div className="mt-4 pt-3 border-t border-white/15 flex items-center gap-3">
+              <span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-xl bg-[#EFA00B]/20 text-[#EFA00B]">
+                <Trophy className="h-5 w-5" />
+              </span>
+              <p className="text-sm sm:text-base font-semibold text-white/90">
+                The exact memory algorithms used by world champions — adapted for children aged 7–17.
               </p>
             </div>
           </div>
         </Reveal>
 
-        {/* Solution Hook */}
+        {/* Hook */}
         <Reveal delay={240}>
           <p className="mt-6 max-w-2xl text-lg sm:text-xl leading-relaxed font-extrabold text-white drop-shadow">
-            <span className="text-[#EFA00B]">AURA fixes that.</span> 5 free live workshops that teach a simple memory system your child can use for every exam, in every subject.
+            <span className="text-[#EFA00B]">5 free live workshops.</span> Same techniques. Any child can learn them.
           </p>
         </Reveal>
 
@@ -149,9 +149,9 @@ export default function Hero() {
             <CtaLink
               href={SITE.joinUrl}
               ctaId="hero_join"
-              className="btn-primary shimmer-badge px-8 py-4 text-base font-extrabold shadow-2xl transition-transform hover:scale-105 active:scale-95 flex items-center gap-3"
+              className="btn-primary shimmer-badge px-8 py-4 text-base font-extrabold shadow-2xl transition-transform hover:scale-105 active:scale-95 flex items-center gap-3 bg-[#EFA00B] !text-[#361D2E] hover:bg-white"
             >
-              <MessageCircle className="h-5 w-5 fill-current" />
+              <MessageCircle className="h-5 w-5 fill-current text-[#25D366]" />
               {HERO.ctaLabel}
               <ArrowRight className="h-5 w-5" strokeWidth={2.5} />
             </CtaLink>

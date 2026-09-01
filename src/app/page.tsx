@@ -1,6 +1,7 @@
 import Nav from "@/components/sections/01-nav"
 import Hero from "@/components/sections/02-hero"
 import TheProblem from "@/components/sections/03-the-problem"
+import TheReveal from "@/components/sections/03b-the-reveal"
 import TheShift from "@/components/sections/04-the-shift"
 import TheMethod from "@/components/sections/05-the-method"
 import Workshops from "@/components/sections/04-workshops"
@@ -24,6 +25,9 @@ export default function Home() {
         </TrackedSection>
         <TrackedSection trackId="the_problem">
           <TheProblem />
+        </TrackedSection>
+        <TrackedSection trackId="the_reveal">
+          <TheReveal />
         </TrackedSection>
         <TrackedSection trackId="the_shift">
           <TheShift />
