@@ -28,7 +28,7 @@ export const SITE_CONFIG: SiteConfig = {
   ],
   ctaPoints: [
     { id: "nav_register", sectionId: "nav", label: "Register Now", isPrimary: false },
-    { id: "hero_register", sectionId: "hero", label: "Get the Faber-Castell Kit · RM10", isPrimary: false },
+    { id: "hero_register", sectionId: "hero", label: "Get Companion Kit · RM10", isPrimary: false },
     { id: "hero_join", sectionId: "hero", label: "Join the WhatsApp Group", isPrimary: true },
     { id: "roadmap_register_all", sectionId: "curriculum", label: "Join the WhatsApp Group", isPrimary: true },
     { id: "pricing_join", sectionId: "pricing", label: "Join the WhatsApp Group", isPrimary: true },

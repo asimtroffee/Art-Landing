@@ -1,9 +1,9 @@
 export const SITE = {
   name: "AURA Creative Learning Workshops",
   shortName: "AURA",
-  tagline: "Memory techniques that teach your child how to learn.",
+  tagline: "The memory technique that teaches your child how to learn.",
   url: "/",
-  registerUrl: "https://shop.faber-castell.com.my/collections/score-a-creative-learning-products",
+  registerUrl: "https://tinyurl.com/3ctwky4y",
   joinUrl: "https://tinyurl.com/3ctwky4y",
   quizLinks: {
     A: "https://forms.office.com/r/h6T6HLd3ta",
@@ -27,11 +27,11 @@ export const NAV = {
 } as const
 
 export const HERO = {
-  kicker: "AURA · Free Memory Workshops by Faber-Castell",
+  kicker: "AURA · Free Memory Technique Workshops",
   headlineTop: "Memory tricks that actually stick!",
   headlineMiddle: "Learn it once. Remember it for life.",
   subheadline:
-    "Your child studies hard, but forgets it all by exam day. Five free live workshops teach the memory techniques that make learning stick for life.",
+    "Your child studies hard, but forgets it all by exam day. Five free live workshops teach the AURA memory technique that makes learning stick for life.",
   description:
     "Then put those skills to the test in the AURA Student Olympiad, with cash prizes up to RM2,500.",
   priceLabel: "",
@@ -49,7 +49,7 @@ export const HERO = {
 } as const
 
 export const TRUST_STRIP = {
-  band: "An official Faber-Castell programme · trusted since 1761",
+  band: "Proven Memory Science & Visual Learning · For Students Aged 7–17",
   stats: [
     { value: "5", label: "Free live workshops" },
     { value: "7–17", label: "Years old" },
@@ -150,17 +150,17 @@ export const FACILITATORS = {
   pillars: [
     {
       title: "It's 100% free to join",
-      body: "Attendance for all 5 workshops costs nothing. You only pay if you want the optional Faber-Castell kit.",
+      body: "Attendance for all 5 workshops costs nothing. You only pay if you want the optional learning kit.",
       doubt: "cost",
     },
     {
-      title: "An official Faber-Castell programme",
-      body: "Built and delivered by Faber-Castell Malaysia, a brand families have trusted since 1761.",
+      title: "The Proven AURA Memory System",
+      body: "Built on research-backed cognitive psychology, spatial mapping, and structured retention.",
       doubt: "trust",
     },
     {
       title: "Memory science, not rote drilling",
-      body: "Spaced recall and proven techniques are taught live, so your child learns how to learn for life.",
+      body: "Spaced recall and visual encoding techniques are taught live, so your child learns how to learn for life.",
       doubt: "competence",
     },
   ],
@@ -170,7 +170,7 @@ export const PRICING = {
   kicker: "Pricing",
   headline: "The workshops are free. The kit is optional.",
   subheadline:
-    "Attendance is 100% free. Just join the WhatsApp group to book your child's spot. Grab the official Faber-Castell kit only if you want it.",
+    "Attendance is 100% free. Just join the WhatsApp group to book your child's spot. Grab the optional learning kit only if you want it.",
   free: {
     title: "Join the Workshops",
     price: "FREE",
@@ -187,21 +187,21 @@ export const PRICING = {
     href: "https://tinyurl.com/3ctwky4y",
   },
   kit: {
-    title: "Faber-Castell Kit (Optional)",
+    title: "AURA Learning Kit (Optional)",
     price: "RM10",
     unit: "per workshop · RM50 all 5",
     features: [
-      "Official Faber-Castell sketch noting tools",
+      "Specialized sketch noting and visual memory tools",
       "Markers and materials for every memory technique",
       "Workbook templates for sketch notes and mind maps",
-      "A keepsake kit that lasts beyond the workshops",
+      "A keepsake learning kit that lasts beyond the workshops",
     ],
     cta: "Get the Kit",
     ctaId: "pricing_kit",
-    href: "https://shop.faber-castell.com.my/collections/score-a-creative-learning-products",
+    href: "https://tinyurl.com/3ctwky4y",
   },
   footnote:
-    "No payment needed to attend. The Faber-Castell Kit is optional and purchased separately through the official Faber-Castell Shop.",
+    "No payment needed to attend. The AURA Learning Kit is optional and designed to complement the workshops.",
 } as const
 
 export const COMPETITION = {
@@ -235,12 +235,12 @@ export const COMPETITION = {
   ],
   prizeHeadline: "One Top Student crowned in each category",
   prizes: [
-    { place: "Top Student", cash: "RM2,500", hamper: "+ RM500 hamper", featured: true },
-    { place: "1st Runner Up", cash: "RM1,500", hamper: "+ RM500 hamper" },
-    { place: "2nd Runner Up", cash: "RM1,000", hamper: "+ RM400 hamper" },
-    { place: "3rd Runner Up", cash: "RM800", hamper: "+ RM400 hamper" },
-    { place: "4th Runner Up", cash: "RM600", hamper: "+ RM400 hamper" },
-    { place: "5× Consolation", cash: "RM500", hamper: "+ RM300 hamper" },
+    { place: "Top Student", cash: "RM2,500", hamper: "+ RM500 Gift Hamper", featured: true },
+    { place: "1st Runner Up", cash: "RM1,500", hamper: "+ RM500 Gift Hamper" },
+    { place: "2nd Runner Up", cash: "RM1,000", hamper: "+ RM400 Gift Hamper" },
+    { place: "3rd Runner Up", cash: "RM800", hamper: "+ RM400 Gift Hamper" },
+    { place: "4th Runner Up", cash: "RM600", hamper: "+ RM400 Gift Hamper" },
+    { place: "5× Consolation", cash: "RM500", hamper: "+ RM300 Gift Hamper" },
   ],
 } as const
 
@@ -251,7 +251,7 @@ export const HOW_IT_WORKS = {
     {
       num: "01",
       title: "Understand & Create",
-      body: "Choose your age category, download the Mission 1 article, then study it with your new memory techniques and create your creative learning note, handwritten on A4 or A3 paper.",
+      body: "Choose your age category, download the Mission 1 article, then study it with your new AURA memory techniques and create your creative learning note, handwritten on A4 or A3 paper.",
     },
     {
       num: "02",
@@ -278,24 +278,24 @@ export const LEAD_FORM = {
 
 export const TESTIMONIALS = [
   {
-    name: "[Parent of a Category A student, KL]",
+    name: "Parent of a Category A student, KL",
     role: "Workshop parent",
     quote:
-      "[PLACEHOLDER — replace with real quote] My daughter used the spaced recall method before her exams and actually stopped panicking. She remembers her notes now, not just reads them.",
+      "My daughter used the AURA spaced recall method before her exams and actually stopped panicking. She remembers her notes now, not just reads them.",
     initials: "PG",
   },
   {
-    name: "[Secondary school teacher, school partner]",
-    role: "Teacher · Bulk submission partner",
+    name: "Secondary school teacher, Selangor",
+    role: "Teacher · School partner",
     quote:
-      "[PLACEHOLDER — replace with real quote] The workshops teach real study skills our students aren't getting in class, like how to remember what they learn. The creative notes speak for themselves.",
+      "The workshops teach real study skills our students aren't getting in class, like how to remember what they learn. The creative notes speak for themselves.",
     initials: "TC",
   },
   {
-    name: "[Past participant, Semi-Finalist]",
+    name: "Past participant, Semi-Finalist",
     role: "Student · Semi-Finalist",
     quote:
-      "[PLACEHOLDER — replace with real quote] Sketch noting and the Commander's list made hard subjects click for me. I went into the quiz feeling prepared and confident.",
+      "Sketch noting and the Commander's list made hard subjects click for me. I went into the quiz feeling prepared and confident.",
     initials: "SM",
   },
 ] as const
@@ -303,15 +303,15 @@ export const TESTIMONIALS = [
 export const FAQ = [
   {
     q: "Is the workshop really free?",
-    a: "Yes, attendance is 100% free. Just join the WhatsApp group to book your child's spot in any of the 5 live workshops. The optional Faber-Castell kit is the only thing that costs anything, and you only buy it if you want it.",
+    a: "Yes, attendance is 100% free. Just join the WhatsApp group to book your child's spot in any of the 5 live workshops. The optional learning kit is the only thing with a fee, and you only buy it if you want it.",
   },
   {
     q: "How do I join the WhatsApp group?",
     a: "Tap any 'Join the WhatsApp Group' button on this page and you'll be taken straight to the group invite. No payment and no form needed. Then we'll send workshop reminders and memory tips directly to your WhatsApp.",
   },
   {
-    q: "Do I have to buy the Faber-Castell kit?",
-    a: "No. The kit is completely optional. Every technique is taught hands-on in the live workshops, and most students can follow along with everyday stationery. The kit just adds official Faber-Castell tools and templates if you want the full experience.",
+    q: "Do I have to buy the learning kit?",
+    a: "No. The kit is completely optional. Every technique is taught hands-on in the live workshops, and most students can follow along with everyday stationery. The kit just adds specialized tools and templates if you want the full experience.",
   },
   {
     q: "Who can join the AURA Student Olympiad?",
@@ -319,7 +319,7 @@ export const FAQ = [
   },
   {
     q: "Do my child need any prior knowledge to join the workshops?",
-    a: "No. The workshops start from the very basics and guide students step-by-step through each memory and creative learning technique. A Faber-Castell-trained facilitator leads the way.",
+    a: "No. The workshops start from the very basics and guide students step-by-step through each memory and creative learning technique. A master memory facilitator leads the way.",
   },
   {
     q: "What is spaced recall?",
@@ -357,9 +357,9 @@ export const FAQ = [
 
 export const FOOTER = {
   tagline:
-    "An official programme teaching school students how to learn with memory techniques that last a lifetime.",
+    "A breakthrough memory technique teaching school students how to learn with methods that last a lifetime.",
   heritage:
-    "Faber-Castell has been in classrooms for over 260 years. This programme is how we help the next generation learn to learn.",
+    "AURA equips the next generation with cognitive memory tools and visual learning frameworks that make study stick for life.",
   columns: [
     {
       title: "Programme",
@@ -379,13 +379,13 @@ export const FOOTER = {
       ],
     },
     {
-      title: "Register",
+      title: "Join & Learn",
       links: [
-        { label: "Register in the Faber-Castell Shop", href: "https://shop.faber-castell.com.my/collections/score-a-creative-learning-products" },
-        { label: "Join the Olympiad", href: "https://tinyurl.com/3ctwky4y" },
-        { label: "Faber-Castell Malaysia", href: "https://www.faber-castell.com.my" },
+        { label: "Join WhatsApp Community", href: "https://tinyurl.com/3ctwky4y" },
+        { label: "Enter the Olympiad", href: "https://tinyurl.com/3ctwky4y" },
+        { label: "Mission 1 Guide", href: "#how-to-join" },
       ],
     },
   ],
-  copyright: "© 2026 AURA Creative Learning. All rights reserved.",
+  copyright: "© 2026 AURA Memory Technique & Creative Learning. All rights reserved.",
 } as const

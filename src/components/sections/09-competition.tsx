@@ -104,7 +104,7 @@ export default function Competition() {
                 {COMPETITION.prizeHeadline}
               </h3>
             </div>
-            <p className="mt-2 text-base text-white/90 font-bold">Cash prizes + Faber-Castell hampers + trophies · per category</p>
+            <p className="mt-2 text-base text-white/90 font-bold">Cash prizes + Gift hampers + trophies · per category</p>
           </div>
         </Reveal>
 

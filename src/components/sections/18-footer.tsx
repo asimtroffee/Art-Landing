@@ -46,7 +46,7 @@ export default function Footer() {
             <div className="mt-6 flex flex-wrap items-center gap-3 text-xs">
               <span className="inline-flex items-center gap-1.5 rounded-full border border-white/20 bg-white/10 px-4 py-1.5 font-bold text-white">
                 <Mail className="h-4 w-4 text-[#EFA00B]" />
-                workshops@faber-castell.com.my
+                workshops@aura-learning.com
               </span>
               <span className="inline-flex items-center gap-1.5 rounded-full border border-white/20 bg-white/10 px-4 py-1.5 font-bold text-white">
                 <MapPin className="h-4 w-4 text-[#EFA00B]" />

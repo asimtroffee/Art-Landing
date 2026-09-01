@@ -127,7 +127,7 @@ export default function Hero() {
               ctaId="hero_register"
               className="btn-sketch-crayon px-7 py-3.5 text-base border-white bg-white/90 text-[#361D2E] shadow-xl hover:bg-white transition-transform hover:scale-105"
             >
-              Get the Faber-Castell Kit · RM10
+              Get Companion Kit · RM10
             </CtaLink>
           </div>
         </Reveal>
@@ -138,7 +138,7 @@ export default function Hero() {
           </div>
           <p className="mt-5 inline-flex items-center gap-2 rounded-full border border-white/15 bg-white/10 px-4 py-1.5 text-sm font-bold text-white/90 backdrop-blur-md">
             <Sparkles className="h-4 w-4 text-[#EFA00B]" strokeWidth={2.5} />
-            An official programme by Faber-Castell Malaysia · trusted since 1761
+            The Proven AURA Memory Technique · For Students Aged 7–17
           </p>
         </Reveal>
       </div>
