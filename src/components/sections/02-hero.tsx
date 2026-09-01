@@ -45,21 +45,21 @@ export default function Hero() {
 
           {/* Middle Line with 3D Cards & 3D Brain */}
           <Reveal delay={120}>
-            <div className="relative mt-3 sm:mt-4 flex flex-wrap items-center justify-center gap-4 sm:gap-6">
+            <div className="relative mt-3 sm:mt-4 flex flex-wrap items-center justify-center gap-3 sm:gap-6">
               
-              {/* 3D Floating Memory Cards Fan */}
+              {/* 3D Floating Memory Cards Fan (Pure Transparent Cutout) */}
               <div className="relative group cursor-pointer">
-                <div className="relative h-16 w-28 sm:h-24 sm:w-44 md:h-28 md:w-52 rounded-2xl overflow-hidden shadow-2xl border-2 border-white ring-4 ring-[#EFA00B]/30 transform -rotate-6 transition-transform duration-500 group-hover:rotate-0 group-hover:scale-105">
+                <div className="relative h-20 w-32 sm:h-28 sm:w-48 md:h-36 md:w-56 -rotate-6 transition-all duration-500 group-hover:rotate-0 group-hover:scale-110 filter drop-shadow-[0_15px_25px_rgba(0,0,0,0.15)]">
                   <Image
-                    src="/images/3d-cards-fan.jpg"
+                    src="/images/3d-cards-fan.png"
                     alt="3D Memory Flashcards"
                     fill
-                    sizes="200px"
-                    className="object-cover"
+                    sizes="(max-width: 768px) 150px, 250px"
+                    className="object-contain"
                   />
                 </div>
                 {/* 3D Pointer Cursor */}
-                <div className="absolute -bottom-3 -right-3 flex h-8 w-8 items-center justify-center rounded-full bg-[#361D2E] text-white shadow-lg border border-white transform transition-transform duration-300 group-hover:translate-x-1 group-hover:translate-y-1">
+                <div className="absolute -bottom-1 -right-1 flex h-8 w-8 items-center justify-center rounded-full bg-[#361D2E] text-white shadow-xl border-2 border-white transform transition-transform duration-300 group-hover:scale-115">
                   <MousePointer2 className="h-4 w-4 fill-white text-[#361D2E]" />
                 </div>
               </div>
@@ -69,19 +69,19 @@ export default function Hero() {
                 BETTER BRAINS.
               </span>
 
-              {/* 3D Glowing Brain with Lightbulb */}
-              <div className="relative h-16 w-16 sm:h-22 sm:w-22 md:h-28 md:w-28 rounded-2xl overflow-hidden shadow-2xl border-2 border-white ring-4 ring-[#D65108]/20 transform rotate-6 transition-transform duration-500 hover:rotate-0 hover:scale-110">
+              {/* 3D Glowing Brain with Lightbulb (Pure Transparent Cutout) */}
+              <div className="relative h-20 w-20 sm:h-28 sm:w-28 md:h-36 md:w-36 rotate-6 transition-all duration-500 hover:rotate-0 hover:scale-115 filter drop-shadow-[0_15px_25px_rgba(0,0,0,0.15)]">
                 <Image
-                  src="/images/3d-brain-lightbulb.jpg"
+                  src="/images/3d-brain-lightbulb.png"
                   alt="3D Brain & Lightbulb"
                   fill
-                  sizes="120px"
-                  className="object-cover"
+                  sizes="(max-width: 768px) 120px, 160px"
+                  className="object-contain"
                 />
               </div>
 
               {/* 3D Interactive Toggle Badge */}
-              <div className="hidden lg:inline-flex items-center gap-2 rounded-full bg-white border-2 border-[#E5D7C9] px-3.5 py-1.5 shadow-md transform -rotate-3">
+              <div className="hidden lg:inline-flex items-center gap-2 rounded-full bg-white border-2 border-[#E5D7C9] px-3.5 py-1.5 shadow-md transform -rotate-3 hover:rotate-0 transition-transform">
                 <span className="h-3 w-3 rounded-full bg-[#25D366] animate-pulse" />
                 <span className="text-[11px] font-black uppercase tracking-wider text-[#361D2E]">Skill Mode: ON</span>
               </div>
@@ -90,9 +90,9 @@ export default function Hero() {
 
           {/* Bottom Line: THEY HAVE BETTER TECHNIQUES */}
           <Reveal delay={180}>
-            <div className="relative mt-3 sm:mt-5 flex flex-wrap items-center justify-center gap-3 sm:gap-5">
+            <div className="relative mt-3 sm:mt-5 flex flex-wrap items-center justify-center gap-3 sm:gap-6">
               
-              <span className="font-heading text-4xl sm:text-6xl md:text-7xl lg:text-[5.8rem] font-normal leading-[0.95] text-[#D65108] tracking-tight relative inline-block drop-shadow-sm">
+              <span className="font-heading text-4xl sm:text-6xl md:text-7xl lg:text-[5.8rem] font-normal leading-[0.95] text-[#D65108] tracking-tight relative inline-block drop-shadow-sm pb-2 sm:pb-3">
                 THEY HAVE BETTER TECHNIQUES.
                 <svg
                   className="absolute bottom-0 left-0 w-full h-3 sm:h-4 pointer-events-none"
@@ -105,14 +105,14 @@ export default function Hero() {
                 </svg>
               </span>
 
-              {/* 3D Study Elements (Trophy & Stopwatch) */}
-              <div className="relative h-14 w-28 sm:h-20 sm:w-40 md:h-24 md:w-48 rounded-2xl overflow-hidden shadow-2xl border-2 border-white ring-4 ring-[#EFA00B]/30 transform rotate-3 transition-transform duration-500 hover:rotate-0 hover:scale-105">
+              {/* 3D Study Elements: Trophy & Stopwatch (Pure Transparent Cutout) */}
+              <div className="relative h-18 w-36 sm:h-24 sm:w-52 md:h-32 md:w-64 rotate-3 transition-all duration-500 hover:rotate-0 hover:scale-110 filter drop-shadow-[0_15px_25px_rgba(0,0,0,0.15)]">
                 <Image
-                  src="/images/3d-study-elements.jpg"
+                  src="/images/3d-study-elements.png"
                   alt="3D Trophy & Stopwatch"
                   fill
-                  sizes="180px"
-                  className="object-cover"
+                  sizes="(max-width: 768px) 180px, 280px"
+                  className="object-contain"
                 />
               </div>
 
