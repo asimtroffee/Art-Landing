@@ -43,7 +43,7 @@ So the real question isn't *"why can't my child remember?"*
 
 ---
 
-## The Reveal: The World Memory Champion Connection
+## The Reveal: The World Champion Techniques
 
 World memory champions were not born with extraordinary photographic memories. When asked how they perform superhuman memory feats, they all give the same answer: *"I use a technique."*
 

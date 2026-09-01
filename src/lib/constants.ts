@@ -51,7 +51,9 @@ export const THE_PROBLEM = {
 
 export const THE_REVEAL = {
   kicker: "The Reveal",
-  headline: "The World Champion Connection",
+  headline: "The World Champion Techniques",
+  headlineTop: "The World Champion",
+  headlineAccent: "Techniques",
   intro: "Here's something most parents have never been told.",
   championStory:
     "World memory champions — the people who can memorize a full deck of shuffled cards in under a minute, or hundreds of random numbers in one sitting — were not born with extraordinary memories.",

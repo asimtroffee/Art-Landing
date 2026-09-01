@@ -33,7 +33,7 @@ export default function TheReveal() {
             <h2 className="font-heading text-4xl font-extrabold text-white sm:text-5xl lg:text-[3.5rem] lg:leading-[1.05]">
               The World Champion{" "}
               <span className="text-[#EFA00B] relative inline-block pb-2 sm:pb-3">
-                Connection
+                Techniques
                 <svg
                   className="absolute bottom-0 left-0 w-full h-2.5 sm:h-3.5 pointer-events-none"
                   viewBox="0 0 200 12"

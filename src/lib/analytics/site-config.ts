@@ -12,7 +12,7 @@ export const SITE_CONFIG: SiteConfig = {
   sectionOrder: [
     { id: "hero", label: "Hero" },
     { id: "the_problem", label: "The Problem" },
-    { id: "the_reveal", label: "The World Champion Reveal" },
+    { id: "the_reveal", label: "The World Champion Techniques" },
     { id: "the_shift", label: "The Shift" },
     { id: "the_method", label: "The Method" },
     { id: "workshops", label: "Workshops" },
