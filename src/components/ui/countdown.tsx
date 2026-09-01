@@ -57,7 +57,7 @@ export default function Countdown({ target, title, variant = "light" }: Countdow
           ].map((unit) => (
             <div
               key={unit.l}
-              className={`flex min-w-[3.5rem] flex-col items-center rounded-xl px-3 py-2 backdrop-blur-sm ${tile}`}
+              className={`flex min-w-[3.5rem] flex-col items-center rounded-xl px-3 py-2 ${tile}`}
             >
               <span className={`font-heading text-2xl font-black leading-none tabular-nums ${tileNum}`}>
                 {pad(unit.v)}
