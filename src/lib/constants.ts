@@ -26,11 +26,11 @@ export const NAV = {
 } as const
 
 export const HERO = {
-  headlineTop: "Top students aren't geniuses.",
-  headlineAccent: "They just know how to use the same 5 techniques world memory champions use.",
+  headlineTop: "Top students don't have better brains.",
+  headlineAccent: "They have better techniques.",
   subheadline:
     "One difference separates a child who remembers a lesson a month later from one who forgets it in two days. It's not intelligence. It's technique.",
-  hook: "5 free live workshops. Same techniques. Any child can learn them.",
+  hook: "5 free live workshops. The same techniques world memory champions use. Any child can learn them.",
   ctaLabel: "Join the WhatsApp Group",
   ctaSubtext: "100% Free · No payment needed",
   badge: "Created by Troffee Education",
