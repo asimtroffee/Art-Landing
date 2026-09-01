@@ -1,15 +1,14 @@
 import Nav from "@/components/sections/01-nav"
 import Hero from "@/components/sections/02-hero"
-import TrustStrip from "@/components/sections/02b-trust-strip"
-import WhoItsFor from "@/components/sections/03-who-its-for"
+import TheProblem from "@/components/sections/03-the-problem"
+import TheShift from "@/components/sections/04-the-shift"
+import TheMethod from "@/components/sections/05-the-method"
 import Workshops from "@/components/sections/04-workshops"
-import Facilitators from "@/components/sections/06-facilitators"
-import Pricing from "@/components/sections/07-pricing"
-import Competition from "@/components/sections/09-competition"
-import Testimonials from "@/components/sections/14-testimonials"
-import HowItWorks from "@/components/sections/15-how-it-works"
+import WhoItsFor from "@/components/sections/03-who-its-for"
+import TrustSection from "@/components/sections/06-facilitators"
+import HowToJoin from "@/components/sections/15-how-it-works"
 import FAQSection from "@/components/sections/16-faq"
-import LeadForm from "@/components/sections/11-lead-form"
+import ClosingCta from "@/components/sections/11-lead-form"
 import Footer from "@/components/sections/18-footer"
 import StickyBottomBar from "@/components/sections/19-sticky-bottom-bar"
 import TrackedSection from "@/components/analytics/tracked-section"
@@ -23,35 +22,32 @@ export default function Home() {
         <TrackedSection trackId="hero">
           <Hero />
         </TrackedSection>
-        <TrackedSection trackId="trust_strip">
-          <TrustStrip />
+        <TrackedSection trackId="the_problem">
+          <TheProblem />
         </TrackedSection>
-        <TrackedSection trackId="who_its_for">
-          <WhoItsFor />
+        <TrackedSection trackId="the_shift">
+          <TheShift />
+        </TrackedSection>
+        <TrackedSection trackId="the_method">
+          <TheMethod />
         </TrackedSection>
         <TrackedSection trackId="workshops">
           <Workshops />
         </TrackedSection>
-        <TrackedSection trackId="facilitators">
-          <Facilitators />
+        <TrackedSection trackId="who_its_for">
+          <WhoItsFor />
         </TrackedSection>
-        <TrackedSection trackId="pricing">
-          <Pricing />
+        <TrackedSection trackId="trust">
+          <TrustSection />
         </TrackedSection>
-        <TrackedSection trackId="competition">
-          <Competition />
-        </TrackedSection>
-        <TrackedSection trackId="testimonials">
-          <Testimonials />
-        </TrackedSection>
-        <TrackedSection trackId="how_it_works">
-          <HowItWorks />
+        <TrackedSection trackId="how_to_join">
+          <HowToJoin />
         </TrackedSection>
         <TrackedSection trackId="faq">
           <FAQSection />
         </TrackedSection>
-        <TrackedSection trackId="lead_form">
-          <LeadForm />
+        <TrackedSection trackId="closing_cta">
+          <ClosingCta />
         </TrackedSection>
       </main>
       <Footer />

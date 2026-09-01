@@ -22,9 +22,9 @@ const caveat = Caveat({
 })
 
 export const metadata: Metadata = {
-  title: "AURA Creative Learning Workshops | Memory Techniques & Learning How to Learn",
+  title: "AURA Memory Technique | Free Workshops for Students 7–17",
   description:
-    "AURA workshops teach students aged 7–17 memory techniques and how to learn, including sketch noting, spaced recall, critical thinking and presentation skills in 5 live 2-hour online sessions, then take on the AURA Student Olympiad with prizes up to RM2,500.",
+    "AURA teaches students aged 7–17 how memory really works. 5 free live workshops covering sketch noting, spaced recall, exam techniques, mind maps and presentation skills. Created by Troffee Education.",
 }
 
 export default function RootLayout({

@@ -1,41 +1,33 @@
 export type SiteConfig = {
   slug: string
-  name: string
-  url: string
+  siteId: string
   sectionOrder: { id: string; label: string }[]
-  ctaPoints: { id: string; sectionId: string; label: string; isPrimary?: boolean }[]
+  ctaPoints: { id: string; sectionId: string; label: string; isPrimary: boolean }[]
   consentText: string
 }
 
 export const SITE_CONFIG: SiteConfig = {
   slug: "aura-workshops",
-  name: "AURA Creative Learning Workshops",
-  url: "http://localhost:3002",
+  siteId: "aura-workshops",
   sectionOrder: [
     { id: "hero", label: "Hero" },
-    { id: "trust_marks", label: "Trust Marks" },
+    { id: "the_problem", label: "The Problem" },
+    { id: "the_shift", label: "The Shift" },
+    { id: "the_method", label: "The Method" },
+    { id: "workshops", label: "Workshops" },
     { id: "who_its_for", label: "Who It's For" },
-    { id: "what_youll_learn", label: "What You'll Learn" },
-    { id: "curriculum", label: "Workshop Schedule" },
-    { id: "showcase", label: "What Students Create" },
-    { id: "facilitators", label: "Facilitators" },
-    { id: "pricing", label: "Pricing" },
-    { id: "competition", label: "The Olympiad" },
-    { id: "lead_form", label: "Lead Form" },
-    { id: "testimonials", label: "Testimonials" },
-    { id: "how_it_works", label: "How To Join" },
+    { id: "trust", label: "Why AURA" },
+    { id: "how_to_join", label: "How To Join" },
     { id: "faq", label: "FAQ" },
+    { id: "closing_cta", label: "Closing CTA" },
   ],
   ctaPoints: [
-    { id: "nav_register", sectionId: "nav", label: "Register Now", isPrimary: false },
-    { id: "hero_register", sectionId: "hero", label: "Get Companion Kit · RM10", isPrimary: false },
+    { id: "nav_join", sectionId: "nav", label: "Join the WhatsApp Group", isPrimary: true },
     { id: "hero_join", sectionId: "hero", label: "Join the WhatsApp Group", isPrimary: true },
-    { id: "roadmap_register_all", sectionId: "curriculum", label: "Join the WhatsApp Group", isPrimary: true },
-    { id: "pricing_join", sectionId: "pricing", label: "Join the WhatsApp Group", isPrimary: true },
-    { id: "pricing_kit", sectionId: "pricing", label: "Get the Kit", isPrimary: false },
-    { id: "competition_join", sectionId: "competition", label: "Join the WhatsApp Group", isPrimary: true },
-    { id: "competition_kit", sectionId: "competition", label: "Get the Kit · RM10", isPrimary: false },
-    { id: "how_join", sectionId: "how_it_works", label: "Join the WhatsApp Group", isPrimary: true },
+    { id: "workshops_join", sectionId: "workshops", label: "Join the WhatsApp Group", isPrimary: true },
+    { id: "how_join", sectionId: "how_to_join", label: "Join the WhatsApp Group", isPrimary: true },
+    { id: "closing_join", sectionId: "closing_cta", label: "Join the WhatsApp Group", isPrimary: true },
+    { id: "footer_join", sectionId: "footer", label: "Join the WhatsApp Group", isPrimary: true },
     { id: "sticky_register", sectionId: "sticky_bar", label: "Join the WhatsApp Group", isPrimary: true },
   ],
   consentText:

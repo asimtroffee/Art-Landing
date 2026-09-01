@@ -8,8 +8,8 @@ export default function Footer() {
     <footer className="bg-[#D65108] text-white border-t border-[#B34407]">
       <div className="wrap py-16">
         <div className="mb-14 rounded-3xl border border-white/15 bg-white/5 p-8 sm:p-10 text-center">
-          <p className="font-hand text-3xl font-bold text-white sm:text-4xl">Free workshops. Memory techniques for life.</p>
-          <p className="mx-auto mt-3 max-w-xl text-sm leading-relaxed text-white/80 font-bold">{FOOTER.heritage}</p>
+          <p className="font-hand text-3xl font-bold text-white sm:text-4xl">Free workshops. Memory tricks for life.</p>
+          <p className="mx-auto mt-3 max-w-xl text-sm leading-relaxed text-white/80 font-bold">{FOOTER.tagline}</p>
           <div className="mt-6 flex flex-wrap items-center justify-center gap-4">
             <CtaLink
               href={SITE.joinUrl}
@@ -19,13 +19,6 @@ export default function Footer() {
               Join the WhatsApp Group
               <ArrowRight className="h-4 w-4" strokeWidth={2.75} />
             </CtaLink>
-            <CtaLink
-              href={SITE.registerUrl}
-              ctaId="footer_kit"
-              className="btn-sketch-crayon px-6 py-3 text-sm border-white bg-white/90 text-[#361D2E] hover:bg-white"
-            >
-              Get the Kit · RM10
-            </CtaLink>
           </div>
         </div>
 
@@ -34,19 +27,18 @@ export default function Footer() {
             <div className="bg-[#FAF8F5] p-3 rounded-2xl inline-block shadow-md">
               <Image
                 src="/images/logo-aura.png"
-                alt="AURA Creative Learning"
+                alt="AURA Memory Technique"
                 width={160}
                 height={60}
                 className="h-12 w-auto object-contain rounded-lg"
               />
             </div>
-            <p className="mt-4 font-hand text-2xl font-bold text-white/90">AURA Creative Learning Workshops</p>
+            <p className="mt-4 font-hand text-2xl font-bold text-white/90">AURA Memory Technique</p>
             <p className="mt-2 max-w-sm text-sm leading-relaxed text-white/80 font-bold">{FOOTER.tagline}</p>
-            <p className="mt-4 max-w-sm text-xs leading-relaxed text-white/60 font-medium">{FOOTER.heritage}</p>
             <div className="mt-6 flex flex-wrap items-center gap-3 text-xs">
               <span className="inline-flex items-center gap-1.5 rounded-full border border-white/20 bg-white/10 px-4 py-1.5 font-bold text-white">
                 <Mail className="h-4 w-4 text-[#EFA00B]" />
-                workshops@aura-learning.com
+                hello@troffee.education
               </span>
               <span className="inline-flex items-center gap-1.5 rounded-full border border-white/20 bg-white/10 px-4 py-1.5 font-bold text-white">
                 <MapPin className="h-4 w-4 text-[#EFA00B]" />

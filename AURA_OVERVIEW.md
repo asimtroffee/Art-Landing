@@ -1,6 +1,6 @@
-# AURA Memory Technique: Creative Learning Workshops & Student Olympiad
+# AURA Memory Technique: Free Live Workshops for Students (7–17)
 
-> **A Complete Guide to the AURA Memory Technique**  
+> **Created by Troffee Education**  
 > *"Learn it once. Remember it for life."*
 
 ---
@@ -8,192 +8,120 @@
 ## Table of Contents
 1. [Executive Summary](#executive-summary)
 2. [What is AURA?](#what-is-aura)
-3. [The AURA Memory Methodology](#the-aura-memory-methodology)
-4. [Target Audience & Age Categories](#target-audience--age-categories)
-5. [The 5 Live Workshops (Curriculum & Schedule)](#the-5-live-workshops-curriculum--schedule)
-6. [Pricing & Learning Materials](#pricing--learning-materials)
-7. [The AURA Student Olympiad](#the-aura-student-olympiad)
-8. [Prizes & Recognition](#prizes--recognition)
-9. [Submission Rules & Guidelines](#submission-rules--guidelines)
-10. [PAJSK Marks & Certification](#pajsk-marks--certification)
-11. [Key Links & Official Resources](#key-links--official-resources)
+3. [The Core Problem: Why Kids Forget (The Forgetting Curve)](#the-core-problem-why-kids-forget-the-forgetting-curve)
+4. [The Paradigm Shift: Memory is a Learned Skill](#the-paradigm-shift-memory-is-a-learned-skill)
+5. [How AURA Actually Works: The 5 Techniques](#how-aura-actually-works-the-5-techniques)
+6. [Target Audience & Age Categories (7–17)](#target-audience--age-categories-717)
+7. [The 5 Free Live Workshops (Schedule & Curriculum)](#the-5-free-live-workshops-schedule--curriculum)
+8. [Why Parents Choose AURA (Trust & Credibility)](#why-parents-choose-aura-trust--credibility)
+9. [How to Join in 2 Simple Steps](#how-to-join-in-2-simple-steps)
+10. [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
 
 ---
 
 ## Executive Summary
 
-**AURA** is a breakthrough **memory and cognitive learning technique** developed to transform how students absorb, retain, and communicate knowledge. Rather than forcing students through stressful, repetitive rote cramming, AURA teaches practical, brain-friendly visual memory structures, active recall pathways, and structured synthesis.
+**AURA** is a structured **memory and cognitive learning technique** developed by **Troffee Education** to teach school students (ages 7 to 17) how memory really works. 
 
-Through 5 live training workshops and the nationwide **AURA Student Olympiad**, school students aged **7 to 17** master the AURA technique and put their memory skills to the test with **cash prizes up to RM2,500 per category**, national recognition, e-certificates, and MOE-aligned PAJSK co-curricular marks.
+Rather than relying on stressful, repetitive rote memorization and last-minute cramming, AURA equips students with visual sketch-noting, strategic spaced recall, thinking frameworks, and expressive presentation skills.
+
+The complete technique is taught live and hands-on over **5 interactive online workshops**, which are **100% free to attend**.
 
 ---
 
 ## What is AURA?
 
-**AURA** is a multi-dimensional **memory technique and creative learning framework**. 
+Most students struggle in school not because they aren't smart or don't try, but because **schools teach WHAT to learn, but rarely HOW to remember it**.
 
-Most students struggle in school not because they lack intelligence, but because they are never taught *how* the human brain stores and retrieves information. Under exam stress, rote-memorized facts quickly fade.
-
-AURA solves this by providing a concrete, step-by-step memory toolkit:
-- **Visual Encoding**: Transforming abstract facts into sketch-notes and visual anchors that trigger rapid mental recall.
-- **Systematic Retention**: Employing spaced recall schedules to prevent the natural "forgetting curve".
-- **Concept Synthesis**: Mapping complex subjects with hierarchical mind maps and the Commander's List method.
-- **Expressive Retrieval**: Confidently presenting and explaining complex ideas under pressure.
-
----
-
-## The AURA Memory Methodology
-
-The AURA technique operates on four interconnected cognitive pillars:
-
-```
-                  ┌─────────────────────────────────────┐
-                  │        THE AURA MEMORY SYSTEM       │
-                  └──────────────────┬──────────────────┘
-                                     │
-         ┌───────────────────┬───────┴───────────┬───────────────────┐
-         ▼                   ▼                   ▼                   ▼
-┌─────────────────┐ ┌─────────────────┐ ┌─────────────────┐ ┌─────────────────┐
-│ 1. Dual Coding  │ │2. Spaced Recall │ │3. Structural Map│ │ 4. Expressive   │
-│ Visual Sketch   │ │Systematic Active│ │Commander's List │   Retrieval       │
-│ Notes & Anchors │ │Retrieval Cycles │ │& Flow Frameworks│ │Clear Presentation│
-└─────────────────┘ └─────────────────┘ └─────────────────┘ └─────────────────┘
-```
-
-1. **Dual Coding & Visual Memory (Sketch-Noting)**:  
-   Pairs concise semantic concepts with hand-drawn visual cues, spatial relationships, and colour anchors. This activates both hemispheres of the brain, accelerating recall speed by up to 300%.
-2. **Spaced Recall & Active Retrieval**:  
-   Interrupts memory decay at strategic intervals (Day 1, Day 3, Day 7, Day 30). This moves information from fragile short-term working memory into permanent long-term storage.
-3. **Structured Thinking Frameworks (Commander's List & Flow Mapping)**:  
-   Teaches students to categorize information into clear hierarchies. It eliminates exam anxiety by providing ready-to-use mental structures for open-ended, analytical questions.
-4. **Expressive Retrieval & Presentation**:  
-   Reinforces knowledge through verbal articulation (the Feynman technique). If a student can clearly present a concept in two minutes, they truly own it.
+Under exam pressure, text-heavy notes fade. AURA provides a practical, step-by-step memory toolkit:
+- **Visual Encoding**: Transforming textbook pages into memorable sketch notes with pictures, arrows, and visual anchors.
+- **Spaced Recall**: Reviewing facts at precise intervals so information moves permanently into long-term memory.
+- **Exam Thinking**: A systematic, step-by-step method to think through any exam question with depth and clarity.
+- **Mind Maps & Synthesis**: Turning complex, messy chapters into a single colourful, structured page.
+- **Expressive Retrieval**: Speaking and presenting ideas with clarity and confidence.
 
 ---
 
-## Target Audience & Age Categories
+## The Core Problem: Why Kids Forget (The Forgetting Curve)
 
-The AURA technique is tailored for all school students aged **7 to 17**, divided into three focused developmental categories:
-
-| Category | Target Group | Age Range | AURA Technique Focus |
-| :--- | :--- | :--- | :--- |
-| **Category A** | Primary School | **7 – 12 years old** | Visual-memory foundations, doodle anchors, basic spatial layout, and confidence in explaining ideas. |
-| **Category B** | Lower Secondary | **13 – 15 years old** | The Commander's List technique, multi-subject organization, critical analysis, and structured debate/presentation. |
-| **Category C** | Upper Secondary | **16 – 17 years old** | Advanced exam-ready memory algorithms, high-level critical synthesis, and high-impact public communication. |
+Every parent has seen it:
+1. **The Late Night**: The child studies for hours, surrounded by notes, re-reading pages until they blur. They say *"I've got this!"*
+2. **The Exam Blank**: The exam arrives — and it feels like they never studied at all.
+3. **The Root Cause**: Cramming only holds data in fragile short-term working memory. Up to **75% of crammed facts disappear within 48 hours** due to the natural forgetting curve.
 
 ---
 
-## The 5 Live Workshops (Curriculum & Schedule)
+## The Paradigm Shift: Memory is a Learned Skill
 
-All 5 workshops are conducted **live online (2 hours each)** by master memory facilitators.
+Memory is not a genetic trait kids are simply born with or without — **it is a skill that can be mastered with the right technique**.
 
-| Workshop | Date & Time | Topic | AURA Technique Focus |
-| :--- | :--- | :--- | :--- |
-| **Workshop 1** | **10 May 2026**<br>`9:30 AM – 11:30 AM` | **Turn Lessons Into Sketch Notes** | • Converting dense textbook pages into intuitive sketch notes.<br>• Visual memory anchors, flow arrows, and spatial hierarchy.<br>• Creating dual-purpose notes that serve as Olympiad entries. |
-| **Workshop 2** | **24 May 2026**<br>`2:30 PM – 4:30 PM` | **Never-Forget Memory Tricks** | • Overcoming the forgetting curve with spaced recall algorithms.<br>• Strategic colour coding and mnemonic triggers for every subject.<br>• Moving facts from short-term cramming into permanent memory. |
-| **Workshop 3** | **7 June 2026**<br>`2:30 PM – 4:30 PM` | **Think & Answer Exam Questions** | • Thinking frameworks to rapidly deconstruct exam prompts.<br>• Connecting cross-topic concepts in seconds.<br>• Structuring high-mark, in-depth analytical responses. |
-| **Workshop 4** | **21 June 2026**<br>`2:30 PM – 4:30 PM` | **Build Mind Maps & Creative Notes** | • Designing memory-map layouts, river-flow notes, and mind maps.<br>• Crafting a complete creative note for Mission 1 submission.<br>• Visual synthesis and non-linear organization. |
-| **Workshop 5** | **5 July 2026**<br>`2:30 PM – 4:30 PM` | **Present With Confidence** | • Expressive retrieval: standing up and presenting ideas with clarity.<br>• Body language, tone modulation, and verbal precision.<br>• The competitive edge needed for the Olympiad Grand Finale. |
-
----
-
-## Pricing & Learning Materials
-
-- **Live Workshop Attendance**: **100% FREE**  
-  Every student can attend all 5 live interactive workshops for free by joining the official community WhatsApp group.
-- **AURA Companion Learning Kit (Optional)**: **RM10 per workshop** *(or RM50 for the complete 5-workshop series)*  
-  Includes specialized sketch-noting tools, precision fine-liners, highlighters, and structured workbook templates.  
-  *Note: Any standard notebook and coloured pens can be used; the companion kit is strictly optional.*
-
----
-
-## The AURA Student Olympiad
-
-The Olympiad is a national challenge where students apply the AURA memory technique to real-world academic content.
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│ Mission 1: Qualifying Stage (6 Apr – 19 Jul 2026)           │
-│ • Submit handwritten AURA creative note + Complete quiz     │
-│ • Open to all registered students                           │
-└──────────────────────────────┬──────────────────────────────┘
-                               │ (Top 100 per Category)
-                               ▼
-┌─────────────────────────────────────────────────────────────┐
-│ Semi-Final: The Advanced Challenge (8 – 22 Aug 2026)        │
-│ • Advanced memory synthesis, organisation & communication   │
-└──────────────────────────────┬──────────────────────────────┘
-                               │ (Top 10 per Category)
-                               ▼
-┌─────────────────────────────────────────────────────────────┐
-│ Grand Finale: 2-Day Physical Showdown (30 Sep – 1 Oct 2026) │
-│ • Klang Valley venue                                        │
-│ • Live on-the-spot note creation, analysis & presentations  │
-└─────────────────────────────────────────────────────────────┘
-```
-
-### Stage Details
-
-1. **Mission 1 (Qualifying Stage)**: `6 April – 19 July 2026`  
-   - Study the category's assigned Mission 1 article using AURA techniques.
-   - Hand-draw a creative note synthesizing the article on A4 or A3 paper.
-   - Upload the note and take the single-attempt category online quiz.
-   - **Top 100 scorers per category** qualify for the Semi-Finals.
-2. **Semi-Final (The Advanced Challenge)**: `8 – 22 August 2026`  
-   - Shortlisted candidates complete advanced synthesis and presentation challenges.
-   - **Top 10 per category** advance to the Grand Finale.
-3. **Grand Finale (The Ultimate Showdown)**: `30 September & 1 October 2026`  
-   - A prestigious 2-day physical event held in the Klang Valley.
-   - Live note synthesis, timed problem-solving rounds, and live presentations evaluated by master educators.
-
----
-
-## Prizes & Recognition
-
-Cash prizes, trophies, and premium gift hampers are awarded to finalists in **each of the 3 categories**:
-
-| Placing | Cash Prize | Gift Hamper | Total Value per Winner |
-| :--- | :--- | :--- | :--- |
-| **🥇 Top Student** | **RM2,500** | + RM500 Gift Hamper | **RM3,000** |
-| **🥈 1st Runner Up** | **RM1,500** | + RM500 Gift Hamper | **RM2,000** |
-| **🥉 2nd Runner Up** | **RM1,000** | + RM400 Gift Hamper | **RM1,400** |
-| **4th Place (3rd Runner Up)** | **RM800** | + RM400 Gift Hamper | **RM1,200** |
-| **5th Place (4th Runner Up)** | **RM600** | + RM400 Gift Hamper | **RM1,000** |
-| **Consolation Prize (5 Winners)** | **RM500 each** | + RM300 Gift Hamper | **RM800 each** |
-
----
-
-## Submission Rules & Guidelines
-
-To ensure fair judging and academic integrity:
-
-1. **Paper & Format**: Must be **100% handwritten and hand-drawn** on **A4 or A3 paper**.
-2. **Language**: The submission must be written in **English**.
-3. **Authenticity**: Submissions containing digital elements, typed text, or computer-generated graphics will be **disqualified**.
-4. **File Submission**:
-   - High-quality top-down photo or clean scan (PDF, JPEG, or PNG).
-   - Filename format: `YourFullName_SchoolName` (e.g., `AhmadAli_SMKDamansaraUtama.pdf`).
-5. **Online Quiz Protocol**:
-   - **Submit the creative note first**, then start the quiz.
-   - Each participant gets only **ONE (1) attempt**.
-
----
-
-## PAJSK Marks & Certification
-
-- **E-Certificates**: Every participant who completes Mission 1 (submitting a valid creative note and finishing the online quiz) receives an official AURA E-Certificate of Participation.
-- **PAJSK Co-Curricular Marks**:  
-  - Awarded to eligible government school students aged **10 to 17**.
-  - Issued in accordance with Ministry of Education (MOE) Malaysia guidelines, subject to post-event MOE approval (processing timeline up to 3 months).
-
----
-
-## Key Links & Official Resources
-
-| Resource | URL / Access |
+| The Old Rote Way | The AURA Memory Method |
 | :--- | :--- |
-| **Official Workshop WhatsApp Group** | [Join Community WhatsApp Group](https://tinyurl.com/3ctwky4y) |
-| **Olympiad Registration Portal** | [Join Olympiad Direct Link](https://tinyurl.com/3ctwky4y) |
-| **Category A Quiz (Ages 7–12)** | [Category A Quiz Form](https://forms.office.com/r/h6T6HLd3ta) |
-| **Category B Quiz (Ages 13–15)** | [Category B Quiz Form](https://forms.office.com/r/PQdDxgmZcb) |
-| **Category C Quiz (Ages 16–17)** | [Category C Quiz Form](https://forms.office.com/r/WkVesa7YBW) |
+| ❌ Re-reading pages until they blur | ✅ Simple sketch notes the brain actually holds onto |
+| ❌ Stressful last-minute panic cramming | ✅ Reviewing facts at strategic spaced intervals |
+| ❌ Freezing on complex exam questions | ✅ Step-by-step frameworks to deconstruct any prompt |
+| ❌ Mumbling and anxiety during presentations | ✅ Explaining ideas clearly and with unshakable confidence |
+
+> *"If a child can explain something well, it means they really understand it."*
+
+---
+
+## How AURA Actually Works: The 5 Techniques
+
+1. **Sketch Notes That Stick**: Boring textbook pages turn into simple pictures and arrows that make instant visual sense.
+2. **Never-Forget Memory Tricks**: Spaced recall timing so facts don't fade away weeks later.
+3. **Answering Exam Questions With Real Depth**: A step-by-step thinking method so students never stare blankly at an exam question.
+4. **Mind Maps & Creative Notes**: Turning a messy chapter into one clear, colourful map for any subject.
+5. **Presenting With Confidence**: Standing up and explaining ideas clearly without freezing up.
+
+---
+
+## Target Audience & Age Categories (7–17)
+
+| Category | Age Range | Focus Area |
+| :--- | :--- | :--- |
+| **Category A · Primary** | **7 – 12 years** | Simple pictures, easy memory tricks, and confidence in explaining ideas. |
+| **Category B · Lower Secondary** | **13 – 15 years** | Multi-subject organization, clearer analytical thinking, and structured presentations. |
+| **Category C · Upper Secondary** | **16 – 17 years** | Exam-ready memory algorithms, critical synthesis, and high-impact communication. |
+
+---
+
+## The 5 Free Live Workshops (Schedule & Curriculum)
+
+All 5 workshops are conducted **live online (2 hours each)** by master memory facilitators:
+
+| Workshop | Date & Time | Topic | What Students Learn |
+| :--- | :--- | :--- | :--- |
+| **Workshop 1** | **10 May 2026**<br>`9:30 AM – 11:30 AM` | **Turn Lessons Into Sketch Notes** | A simple way to make notes that are easy to remember using visual structure. |
+| **Workshop 2** | **24 May 2026**<br>`2:30 PM – 4:30 PM` | **Never-Forget Memory Tricks** | How to review facts so they stay in long-term memory permanently. |
+| **Workshop 3** | **7 June 2026**<br>`2:30 PM – 4:30 PM` | **Think & Answer Exam Questions** | A step-by-step way to tackle any analytical question with depth. |
+| **Workshop 4** | **21 June 2026**<br>`2:30 PM – 4:30 PM` | **Build Mind Maps & Creative Notes** | How to turn any messy topic into a clear, creative, one-page summary. |
+| **Workshop 5** | **5 July 2026**<br>`2:30 PM – 4:30 PM` | **Present With Confidence** | How to speak clearly and with confidence without stage fright. |
+
+---
+
+## Why Parents Choose AURA (Trust & Credibility)
+
+1. **100% Free to Join**: Attendance for all 5 live workshops costs nothing. The optional companion kit is just RM10 if desired.
+2. **Made by Troffee Education**: Built by professional educators dedicated to teaching students how to actually learn.
+3. **Real Memory Science, Made Simple**: Grounded in cognitive psychology and dual-coding theory, made accessible for any child aged 7–17.
+
+---
+
+## How to Join in 2 Simple Steps
+
+1. **Step 1 — Join the WhatsApp Community**: Join the official WhatsApp group to book your child's spot in seconds.
+2. **Step 2 — Attend the Workshops Live**: Show up for the 5 live online sessions and build a lifelong memory routine.
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+- **Is the workshop really free?**  
+  Yes. All 5 live workshops are 100% free. Just join the WhatsApp group to book a spot. The only optional item is the learning kit, and you only get it if you want it.
+- **Do I have to buy the kit?**  
+  No. A normal notebook and coloured pens work fine. The kit is just a nice-to-have.
+- **Does my child need any experience?**  
+  No. The workshops start from the basics. Most kids are making confident notes from the very first session.
+- **Is this backed by real memory science, or is it just "tips"?**  
+  It's based on proven learning methods — the same ones used in memory research — just explained simply, so any child aged 7 to 17 can use them right away.
